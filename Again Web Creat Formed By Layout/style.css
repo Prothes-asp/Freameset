@@ -1,0 +1,63 @@
+.tab{
+	 height:2000px; 
+	 width:1340px; 
+	 margin:0px;
+	 margin-right:0px; 
+}
+#tr{
+	 height:200px;
+}
+
+#th{
+	font-size:50px;
+	color:#FFA500;
+}
+
+#nav{
+	  height:20px; 
+	  background-color:pink;
+}
+#tdd{
+	  height:30px;
+}
+
+#obb{
+	height:30px;
+}
+
+#ffc{
+	  height:15px; 
+	  background-color:pink; 
+	  color:red;
+}
+
+#cit{
+	 width:840px; 
+	 height:100px; 
+	 background-color:#FFE4E1
+}
+
+#sp{
+	 width:500px;
+	 background-color:#EEE8AA;
+}
+
+.sptab{
+	width:500px;
+	text-align:center;
+}
+
+#cds{
+	 width:840px; 
+	 height:100px;
+	 background-color:#FFE4E1;
+}
+
+ .cdsd{
+ 	 width:840px; 
+ 	 text-align:center;
+ }
+
+#cvf{
+	height:1535px;
+}
